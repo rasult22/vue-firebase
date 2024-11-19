@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "firebase": "^7.14.0",
+    "firebase": "^10.9.0",
     "node-pre-gyp": "^0.14.0",
     "vue": "^2.6.11",
     "vue-drag-n-drop": "^1.2.0",
